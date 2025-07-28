@@ -23,7 +23,6 @@ Originally developed as a microcontroller project, GateGuard ensures that only a
 
 ## Repository  
 - **GitHub**: [Prajjwal-dev/GateGuard](https://github.com/Prajjwal-dev/GateGuard)  
-- **Repository ID**: *Replace with actual repo ID if available*
 
 ## Project Structure  
 The project is organized into the following components:
